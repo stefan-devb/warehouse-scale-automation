@@ -13,8 +13,7 @@ This project aims to digitize and automate the process of tracking paint usage i
 - Wi-Fi RS232 Gateway (Kern FCB 12K1 scale)
 
 ##  Status
- Repository initialized  
- Next: Test RS232 communication and simulate Wi-Fi data transfer
+ Building scale simulation script for testing and figuring out the logic
 
 ##  How to Run
 ```bash
