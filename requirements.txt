@@ -2,4 +2,4 @@ flask
 requests
 paho-mqtt
 pyserial
-sqlite3
+
